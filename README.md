@@ -1,0 +1,2 @@
+# Programa-calificaciones
+ arreglos.c
